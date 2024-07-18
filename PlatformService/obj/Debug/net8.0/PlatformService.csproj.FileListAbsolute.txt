@@ -169,3 +169,5 @@
 /home/harsh/Desktop/microservices/PlatformService/obj/Debug/net8.0/PlatformService.genruntimeconfig.cache
 /home/harsh/Desktop/microservices/PlatformService/obj/Debug/net8.0/ref/PlatformService.dll
 /home/harsh/Desktop/microservices/PlatformService/bin/Debug/net8.0/appsettings.Production.json
+/home/harsh/Desktop/microservices/PlatformService/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/harsh/Desktop/microservices/PlatformService/obj/Debug/net8.0/PlatformService.sourcelink.json

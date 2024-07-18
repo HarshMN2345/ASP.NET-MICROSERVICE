@@ -1,7 +1,15 @@
+using System.ComponentModel.DataAnnotations;
+
 namespace CommandService.Models;
 public class Platform{
+    [Key]
+    [Required]
     public int Id { get; set; }
-    public string ExternalId { get; set; }
-    public string Name { get; set; }
+    [Required]
+    public string? ExternalId { get; set; }
+    [Required]
+    public string? Name { get; set; }
+
+    public ICollection<Command> Commands {get;set;}=new List<Command>();
     
 }

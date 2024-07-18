@@ -1,0 +1,7 @@
+[*.cs]
+
+# IDE0320: Make anonymous function static
+csharp_prefer_static_anonymous_function = true
+
+# IDE0055: Fix formatting
+dotnet_diagnostic.IDE0055.severity = none
