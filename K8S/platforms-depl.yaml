@@ -1,3 +1,5 @@
+
+---
 apiVersion: apps/v1
 kind: Deployment
 metadata:
@@ -15,17 +17,22 @@ spec:
       containers:
       - name: platformmicroservice
         image: harshmn2345/platformmicroservice:latest
+
 ---
 apiVersion: v1
 kind: Service
 metadata:
   name: platforms-clusterip-srv
 spec:
-  type: ClusterIP  # Corrected the type to start with a capital letter
+  type: ClusterIP
   selector:
     app: platformmicroservice
   ports:
-    - name: platformmicroservice
-      protocol: TCP
-      port: 8000
-      targetPort: 8000
+  - name: platformmicroservice
+    protocol: TCP
+    port: 8000
+    targetPort: 8000
+  - name: platformgrpc
+    protocol: TCP
+    port: 666
+    targetPort: 666

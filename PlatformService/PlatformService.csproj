@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper" Version="13.0.1" />
+    <PackageReference Include="Grpc.AspNetCore" Version="2.64.0" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="8.0.7" />
     <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.0-preview.6.24327.4" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0-preview.6.24327.4">
@@ -22,6 +23,9 @@
 
   <ItemGroup>
     <Folder Include="SyncDataServices/" />
+  </ItemGroup>
+   <ItemGroup>
+    <Protobuf Include="Protos\platforms.proto" GrpcServices="Server" />
   </ItemGroup>
 
 </Project>

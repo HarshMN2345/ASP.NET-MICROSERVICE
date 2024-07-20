@@ -171,3 +171,10 @@
 /home/harsh/Desktop/microservices/PlatformService/bin/Debug/net8.0/appsettings.Production.json
 /home/harsh/Desktop/microservices/PlatformService/bin/Debug/net8.0/RabbitMQ.Client.dll
 /home/harsh/Desktop/microservices/PlatformService/obj/Debug/net8.0/PlatformService.sourcelink.json
+/home/harsh/Desktop/microservices/PlatformService/bin/Debug/net8.0/Google.Protobuf.dll
+/home/harsh/Desktop/microservices/PlatformService/bin/Debug/net8.0/Grpc.AspNetCore.Server.dll
+/home/harsh/Desktop/microservices/PlatformService/bin/Debug/net8.0/Grpc.AspNetCore.Server.ClientFactory.dll
+/home/harsh/Desktop/microservices/PlatformService/bin/Debug/net8.0/Grpc.Core.Api.dll
+/home/harsh/Desktop/microservices/PlatformService/bin/Debug/net8.0/Grpc.Net.Client.dll
+/home/harsh/Desktop/microservices/PlatformService/bin/Debug/net8.0/Grpc.Net.ClientFactory.dll
+/home/harsh/Desktop/microservices/PlatformService/bin/Debug/net8.0/Grpc.Net.Common.dll

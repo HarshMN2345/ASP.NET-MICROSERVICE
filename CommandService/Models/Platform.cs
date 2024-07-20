@@ -6,7 +6,7 @@ public class Platform{
     [Required]
     public int Id { get; set; }
     [Required]
-    public string? ExternalId { get; set; }
+    public int ExternalId { get; set; }
     [Required]
     public string? Name { get; set; }
 

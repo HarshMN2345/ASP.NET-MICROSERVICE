@@ -104,3 +104,15 @@
 /home/harsh/Desktop/microservices/CommandService/obj/Debug/net8.0/CommandService.pdb
 /home/harsh/Desktop/microservices/CommandService/obj/Debug/net8.0/CommandService.genruntimeconfig.cache
 /home/harsh/Desktop/microservices/CommandService/obj/Debug/net8.0/ref/CommandService.dll
+/home/harsh/Desktop/microservices/CommandService/bin/Debug/net8.0/appsettings.Production.json
+/home/harsh/Desktop/microservices/CommandService/bin/Debug/net8.0/RabbitMQ.Client.dll
+/home/harsh/Desktop/microservices/CommandService/bin/Debug/net8.0/Google.Protobuf.dll
+/home/harsh/Desktop/microservices/CommandService/bin/Debug/net8.0/Grpc.Core.Api.dll
+/home/harsh/Desktop/microservices/CommandService/bin/Debug/net8.0/Grpc.Net.Client.dll
+/home/harsh/Desktop/microservices/CommandService/bin/Debug/net8.0/Grpc.Net.Common.dll
+/home/harsh/Desktop/microservices/CommandService/bin/Debug/net8.0/Grpc.Core.dll
+/home/harsh/Desktop/microservices/CommandService/bin/Debug/net8.0/runtimes/linux-arm64/native/libgrpc_csharp_ext.arm64.so
+/home/harsh/Desktop/microservices/CommandService/bin/Debug/net8.0/runtimes/linux-x64/native/libgrpc_csharp_ext.x64.so
+/home/harsh/Desktop/microservices/CommandService/bin/Debug/net8.0/runtimes/osx-x64/native/libgrpc_csharp_ext.x64.dylib
+/home/harsh/Desktop/microservices/CommandService/bin/Debug/net8.0/runtimes/win-x64/native/grpc_csharp_ext.x64.dll
+/home/harsh/Desktop/microservices/CommandService/bin/Debug/net8.0/runtimes/win-x86/native/grpc_csharp_ext.x86.dll

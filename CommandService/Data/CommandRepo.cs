@@ -43,7 +43,9 @@ public class CommandRepo : ICommandRepo
         .Where(c=>c.PlatformId==platformId)
         .OrderBy(c=>c.Platform.Name);
     }
-
+    public bool ExternalPlatformExists(int externalPlatformId){
+        return _context.Platforms.Any(p=>p.ExternalId==externalPlatformId);
+    }
     public bool PlatformExists(int platformId)
     {
         return _context.Platforms.Any(p=>p.Id==platformId);
@@ -52,5 +54,10 @@ public class CommandRepo : ICommandRepo
     public bool SaveChanges()
     {
         return (_context.SaveChanges()>=0);
+    }
+
+    public bool ExternalPlatformExists(object externalID)
+    {
+        throw new NotImplementedException();
     }
 }

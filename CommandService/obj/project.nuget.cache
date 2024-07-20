@@ -1,11 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "TPhnKHue9jlOQy79lt6h1w6amNJyK1TrPFL0jZ7LHwFg1Ffdtzmn+KL4AfMESudXaTAHtkyMRCh/SKQB7eYXnA==",
+  "dgSpecHash": "tEm0TpqD81bD2hSzMiK2uI6g0kN/BD4W7BKT93MHV0Z23qbMfYPuFsVjdV5uEDUGSXoMB7GiJfiDUgOZ8BjpJw==",
   "success": true,
   "projectFilePath": "/home/harsh/Desktop/microservices/CommandService/CommandService.csproj",
   "expectedPackageFiles": [
     "/home/harsh/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
     "/home/harsh/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/12.0.1/automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "/home/harsh/.nuget/packages/google.protobuf/3.27.2/google.protobuf.3.27.2.nupkg.sha512",
+    "/home/harsh/.nuget/packages/grpc.core/2.46.6/grpc.core.2.46.6.nupkg.sha512",
+    "/home/harsh/.nuget/packages/grpc.core.api/2.64.0/grpc.core.api.2.64.0.nupkg.sha512",
+    "/home/harsh/.nuget/packages/grpc.net.client/2.64.0/grpc.net.client.2.64.0.nupkg.sha512",
+    "/home/harsh/.nuget/packages/grpc.net.common/2.64.0/grpc.net.common.2.64.0.nupkg.sha512",
+    "/home/harsh/.nuget/packages/grpc.tools/2.65.0/grpc.tools.2.65.0.nupkg.sha512",
     "/home/harsh/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/home/harsh/.nuget/packages/microsoft.aspnetcore.openapi/8.0.7/microsoft.aspnetcore.openapi.8.0.7.nupkg.sha512",
     "/home/harsh/.nuget/packages/microsoft.bcl.asyncinterfaces/6.0.0/microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
@@ -34,6 +40,7 @@
     "/home/harsh/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "/home/harsh/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
     "/home/harsh/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
+    "/home/harsh/.nuget/packages/rabbitmq.client/6.8.1/rabbitmq.client.6.8.1.nupkg.sha512",
     "/home/harsh/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/home/harsh/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/home/harsh/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
@@ -47,12 +54,13 @@
     "/home/harsh/.nuget/packages/system.composition.runtime/6.0.0/system.composition.runtime.6.0.0.nupkg.sha512",
     "/home/harsh/.nuget/packages/system.composition.typedparts/6.0.0/system.composition.typedparts.6.0.0.nupkg.sha512",
     "/home/harsh/.nuget/packages/system.io.pipelines/6.0.3/system.io.pipelines.6.0.3.nupkg.sha512",
+    "/home/harsh/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512",
     "/home/harsh/.nuget/packages/system.reflection.metadata/6.0.1/system.reflection.metadata.6.0.1.nupkg.sha512",
     "/home/harsh/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/home/harsh/.nuget/packages/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg.sha512",
     "/home/harsh/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
     "/home/harsh/.nuget/packages/system.text.json/8.0.4/system.text.json.8.0.4.nupkg.sha512",
-    "/home/harsh/.nuget/packages/system.threading.channels/6.0.0/system.threading.channels.6.0.0.nupkg.sha512"
+    "/home/harsh/.nuget/packages/system.threading.channels/7.0.0/system.threading.channels.7.0.0.nupkg.sha512"
   ],
   "logs": []
 }
